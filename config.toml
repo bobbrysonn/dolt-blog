@@ -8,6 +8,9 @@ title = "Bob Bryson's Blog"
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
 
+# Enable Emoji Support
+enableEmoji = true
+
 [params]
   # DoIt theme version
   version = "0.2.X"
